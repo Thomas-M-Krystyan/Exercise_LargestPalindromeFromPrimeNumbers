@@ -7,6 +7,7 @@
 - Console application (.NET Framework)
 - MSTests
 
+
 2. Algorithms:
 Algorithm which consists of:
 
@@ -14,7 +15,8 @@ Algorithm which consists of:
 - Prime numbers algorithm (optimized);
 - Prime numbers product calculation;
 - Swapping the largest result (optimized);
-- Unit tests for each algorithms
+- Unit tests for each algorithms (optimized).
+
 
 3. Business requirements:
 
